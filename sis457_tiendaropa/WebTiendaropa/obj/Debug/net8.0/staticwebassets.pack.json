@@ -1,0 +1,857 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebTiendaropa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebTiendaropa.400hyzt1du.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\banner\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\banner\\banner.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\banner\\banner2.jpg",
+      "PackagePath": "staticwebassets\\img\\banner\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\details\\blog-details.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\blog-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\details\\comment-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\details\\comment-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\details\\comment-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\details\\comment-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\sidebar\\fp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\sidebar\\fp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\blog\\sidebar\\fp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\sidebar\\fp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria01.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria11.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria2.webp",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria2.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria22.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\categoria5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\categoria5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\category-1.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\category-2.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\category-3.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\category-4.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\categories\\category-5.jpg",
+      "PackagePath": "staticwebassets\\img\\categories\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\discount.jpg",
+      "PackagePath": "staticwebassets\\img\\discount.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\instagram\\modelo6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram\\modelo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\logop.png",
+      "PackagePath": "staticwebassets\\img\\logop.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\payment\\payment-1.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-1.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\payment\\payment-2.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-2.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\payment\\payment-3.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-3.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\payment\\payment-4.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-4.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\payment\\payment-5.png",
+      "PackagePath": "staticwebassets\\img\\payment\\payment-5.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\boxerhombre.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\boxerhombre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\brazier.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\brazier.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\colale.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\colale.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\mediacorta.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\mediacorta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\medianiño.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\medianiño.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\niña.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\niña.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\oumo.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\oumo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\producto1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\producto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\producto2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\producto2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\related\\rp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\related\\rp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\related\\rp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\related\\rp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\related\\rp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\product\\unisexmedias.jpg",
+      "PackagePath": "staticwebassets\\img\\product\\unisexmedias.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop-cart\\cp-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop-cart\\cp-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop-cart\\cp-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop-cart\\cp-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-cart\\cp-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-7.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-8.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\shop\\shop-9.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\shop-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\amarillo.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\amarillo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\boxer.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\boxer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\calzonsillo.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\calzonsillo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\conjunto1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\conjunto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\conjuntol.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\conjuntol.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\conjuntoliso.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\conjuntoliso.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\f-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\f-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\f-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\f-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\ht-1.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\ht-2.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\ht-3.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\ht-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\malla.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\malla.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\media.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\media.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\medialarga.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\medialarga.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\mediaroja.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\mediaroja.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\niña.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\niña.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\img\\trend\\niño.jpg",
+      "PackagePath": "staticwebassets\\img\\trend\\niño.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Videos\\tiendaderopasegundainstancia\\sis457_tiendaropa\\sis457_tiendaropa\\WebTiendaropa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebTiendaropa.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebTiendaropa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebTiendaropa.props",
+      "PackagePath": "build\\WebTiendaropa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebTiendaropa.props",
+      "PackagePath": "buildMultiTargeting\\WebTiendaropa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebTiendaropa.props",
+      "PackagePath": "buildTransitive\\WebTiendaropa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,50 @@
+﻿@model WebTiendaropa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Crear Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Crear Cliente</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Documento</label>
+                <input asp-for="Documento" class="form-control" type="text" maxlength="8" oninput="this.value = this.value.replace(/[^0-9]/g, '')" />
+                <span asp-validation-for="Documento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Nombre Completo</label>
+                <input asp-for="NombreCompleto" class="form-control" />
+                <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Email</label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Teléfono</label>
+                <input asp-for="Telefono" class="form-control" type="text" maxlength="8" oninput="this.value = this.value.replace(/[^0-9]/g, '')" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div><br>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary"><i class="fa fa-save"></i> Crear</button>
+            </div><br>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index"><i class="fa fa-arrow-left"></i> Volver a la lista</a>
+</div>
+
+<script>
+    document.querySelectorAll('input[maxlength][type="text"]').forEach(input => {
+        input.addEventListener('input', function () {
+            this.value = this.value.replace(/[^0-9]/g, '');
+        });
+    });
+</script>

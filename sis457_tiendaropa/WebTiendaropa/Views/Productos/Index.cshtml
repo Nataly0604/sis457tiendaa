@@ -1,0 +1,100 @@
+﻿@model IEnumerable<WebTiendaropa.Models.Producto>
+
+@{
+    ViewData["Title"] = "PRODUCTOS";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-center mb-4 text-primary">PRODUCTOS</h1>
+
+<p class="text-start mb-3">
+    <a asp-action="Create" class="btn btn-pink btn-lg"><i class="fa fa-plus"></i> Crear Nuevo Producto</a>
+</p>
+
+<table class="table table-striped table-bordered table-hover">
+    <thead class="thead-dark" style="background-color: #c2185b; color: white;">
+        <tr>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Stock</th>
+            <th>Categoría</th>
+            <th>Precio de Venta</th>
+            <th>Usuario Registro</th>
+            <th>Fecha Registro</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Stock)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdCategoriaNavigation.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.PrecioVenta)</td>
+                <td>@Html.DisplayFor(modelItem => item.UsuarioRegistro)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaRegistro)</td>
+                <td class="text-center">
+                    <a asp-action="Edit" asp-route-id="@item.Id" title="Editar" class="btn btn-pink-light btn-sm"><i class="fa fa-edit"></i></a>
+                    <a asp-action="Details" asp-route-id="@item.Id" title="Detalle" class="btn btn-pink btn-sm"><i class="fa fa-list"></i></a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" title="Eliminar" class="btn btn-pink-dark btn-sm"><i class="fa fa-trash"></i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* Estilo adicional para personalización *@
+<style>
+    table {
+        background-color: #f8f9fa; /* Fondo claro para la tabla */
+    }
+
+    th, td {
+        text-align: center; /* Alineación centrada para los textos */
+        vertical-align: middle; /* Alineación vertical centrada */
+    }
+
+    .table-striped tbody tr:nth-of-type(odd) {
+        background-color: #fdeef4; /* Color alternado para filas impares */
+    }
+
+    .thead-dark th {
+        font-size: 1.1rem; /* Tamaño de fuente más grande para el encabezado */
+        font-weight: bold;
+    }
+
+    .btn-pink {
+        background-color: #f06292;
+        color: white;
+        border: none;
+    }
+
+    .btn-pink-light {
+        background-color: #f8bbd0;
+        color: white;
+        border: none;
+    }
+
+    .btn-pink-dark {
+        background-color: #c2185b;
+        color: white;
+        border: none;
+    }
+
+        .btn-pink:hover, .btn-pink-light:hover, .btn-pink-dark:hover {
+            background-color: #ec407a;
+            color: white;
+        }
+
+    .btn-sm {
+        margin: 0 5px; /* Espaciado horizontal entre los botones */
+    }
+
+    .text-start {
+        text-align: left !important; /* Alinea el texto al lado izquierdo */
+    }
+</style>

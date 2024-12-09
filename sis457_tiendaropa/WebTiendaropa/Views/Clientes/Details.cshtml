@@ -1,0 +1,99 @@
+﻿@model WebTiendaropa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Detalle Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-dark mb-4">Detalle Cliente</h1>
+
+<hr />
+
+<div class="card shadow p-4 mb-4 bg-light">
+    <!-- Contenedor con borde, sombra y fondo claro -->
+    <dl class="row">
+        <dt class="col-sm-2">Documento</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Documento)
+        </dd>
+
+        <dt class="col-sm-2">Nombre Completo</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NombreCompleto)
+        </dd>
+
+        <dt class="col-sm-2">Email</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt class="col-sm-2">Teléfono</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+        <dt class="col-sm-2">Usuario Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UsuarioRegistro)
+        </dd>
+
+        <dt class="col-sm-2">Fecha Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+    </dl>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-warning btn-lg"><i class="fa fa-edit"></i> Editar</a>
+    <a asp-action="Index" class="btn btn-primary btn-lg"><i class="fa fa-arrow-left"></i> Volver a la lista</a>
+</div>
+
+<style>
+    h1 {
+        font-size: 2rem;
+        font-weight: bold;
+        color: #000;
+    }
+
+    .card {
+        border: 1px solid #ccc; /* Borde del cuadro */
+        border-radius: 0.375rem;
+        background-color: #f8f9fa; /* Fondo claro */
+    }
+
+    .row {
+        justify-content: flex-start;
+    }
+
+    .btn-lg {
+        padding: 0.75rem 1.25rem;
+        font-size: 1.1rem;
+    }
+
+    .btn-warning {
+        background-color: #f39c12;
+        color: white;
+    }
+
+        .btn-warning:hover {
+            background-color: #e67e22;
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+
+    .col-sm-2 {
+        font-weight: bold;
+    }
+
+    .col-sm-10 {
+        font-weight: normal;
+    }
+</style>

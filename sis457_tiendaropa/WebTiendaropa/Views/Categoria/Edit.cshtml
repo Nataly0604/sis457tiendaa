@@ -1,0 +1,87 @@
+﻿@model WebTiendaropa.Models.Categorium
+
+@{
+    ViewData["Title"] = "Editar Categoria";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="text-primary mb-4">Editar Categoría</h1>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="UsuarioRegistro" />
+            <input type="hidden" asp-for="FechaRegistro" />
+            <input type="hidden" asp-for="Estado" />
+
+            <div class="form-group">
+                <label class="control-label" for="Descripcion">Descripción</label>
+                <input asp-for="Descripcion" class="form-control" placeholder="Ingrese la descripción de la categoría" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mt-3">
+                <button type="submit" class="btn btn-warning btn-lg"><i class="fa fa-save"></i> Guardar Cambios</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="Index" class="btn btn-primary btn-lg"><i class="fa fa-arrow-left"></i> Volver a la lista</a>
+</div>
+
+@* Estilo adicional para personalización del fondo y bordes *@
+<style>
+    h1 {
+        font-size: 2rem; /* Tamaño de fuente del título */
+        font-weight: bold;
+    }
+
+    .form-control {
+        border-radius: 0.375rem; /* Bordes redondeados para los campos de texto */
+        padding: 0.75rem 1rem;
+        width: 100%; /* Asegura que el campo ocupe todo el espacio disponible */
+    }
+
+    .btn-lg {
+        padding: 0.75rem 1.25rem;
+        font-size: 1.1rem;
+    }
+
+    .btn-warning {
+        background-color: #f39c12; /* Color naranja */
+        color: white;
+    }
+
+        .btn-warning:hover {
+            background-color: #e67e22; /* Un naranja más oscuro para el hover */
+        }
+
+    .btn-primary {
+        background-color: #007bff; /* Azul para el botón de volver */
+        color: white;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3; /* Un azul más oscuro para el hover */
+        }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+    }
+
+    .text-danger {
+        font-size: 0.9rem; /* Ajuste en tamaño de texto de los errores */
+    }
+
+    .row {
+        justify-content: flex-start; /* Alineación de la columna a la izquierda */
+    }
+</style>
+

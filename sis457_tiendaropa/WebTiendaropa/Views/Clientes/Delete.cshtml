@@ -1,0 +1,45 @@
+﻿@model WebTiendaropa.Models.Cliente
+
+@{
+    ViewData["Title"] = "Eliminar Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Eliminar Cliente</h1>
+
+<h3>Está seguro que desea eliminar el Cliente?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Documento</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Documento)
+        </dd>
+        <dt class="col-sm-2">Nombre Completo</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NombreCompleto)
+        </dd>
+        <dt class="col-sm-2">Email </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class="col-sm-2">Teléfono</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        <dt class="col-sm-2">Usuario Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UsuarioRegistro)
+        </dd>
+        <dt class="col-sm-2">Fecha Registro</dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaRegistro)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger"><i class="fa fa-trash"></i> Eliminar</button> |
+        <a asp-action="Index"><i class="fa fa-arrow-left"></i> Volver a la lista</a>
+    </form>
+</div>

@@ -1,0 +1,10 @@
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\bin\Debug\sis457_tiendaropa.exe.config
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\bin\Debug\sis457_tiendaropa.exe
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\bin\Debug\sis457_tiendaropa.pdb
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.csproj.AssemblyReference.cache
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.Form1.resources
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.Properties.Resources.resources
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.csproj.GenerateResource.cache
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.csproj.CoreCompileInputs.cache
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.exe
+D:\job\nata\el proyecto\sis457_tiendaropa\sis457_tiendaropa\obj\Debug\sis457_tiendaropa.pdb

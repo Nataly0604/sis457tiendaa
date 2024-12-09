@@ -1,0 +1,36 @@
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll.config
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.pdb
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.dll
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.dll
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.xml
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.xml
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.AssemblyReference.cache
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.CoreCompileInputs.cache
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiend.2E6753E9.Up2Date
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.dll
+D:\job\nata\el proyecto\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.pdb
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll.config
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.pdb
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.dll
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.dll
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.xml
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.xml
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.AssemblyReference.cache
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.CoreCompileInputs.cache
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiend.2E6753E9.Up2Date
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.dll
+D:\job\nata\fileToTest\Nueva carpeta\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.pdb
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll.config
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.dll
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\CadTiendaropa.pdb
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiend.2E6753E9.Up2Date
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.dll
+C:\Users\HP\Desktop\SIS457\sis457_tiendaropa\CadTiendaropa\obj\Debug\CadTiendaropa.pdb
